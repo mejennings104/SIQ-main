@@ -5,7 +5,7 @@ body {
 
 .header {
   position: fixed;
-  background-image: linear-gradient(to top, rgb(183, 106, 216), rgb(184, 43, 182));
+  background-image: linear-gradient(to top, rgb(214, 81, 208), rgb(22, 34, 198));
   box-shadow: 0 3px 6px 0 rgb(42, 42, 42);
 }
 h2 {
